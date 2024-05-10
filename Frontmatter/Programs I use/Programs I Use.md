@@ -1,0 +1,7 @@
+- Discord
+- Vivaldi
+- Fences
+- Groupy
+- CapCut
+- TikTok
+- Rewasd

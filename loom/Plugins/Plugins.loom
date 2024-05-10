@@ -1,0 +1,2898 @@
+{
+  "model": {
+    "columns": [
+      {
+        "id": "8f5e3dba-476f-4726-b752-6fdf93267534",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "60px",
+        "type": "checkbox",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "?",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      },
+      {
+        "id": "f2d91edd-783e-448a-99fc-fb6216a5fbf3",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "40px",
+        "type": "checkbox",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "Installed",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      },
+      {
+        "id": "b1f44581-b1ab-4a11-b781-bc278108525f",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "196px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "New Column",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      },
+      {
+        "id": "b2404d75-240b-4177-b56c-ef5d4bd6b4a2",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "83px",
+        "type": "tag",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "New Column",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [
+          {
+            "id": "701bb736-50d9-4e4f-8797-03c9d8b5dbfd",
+            "content": "meh",
+            "color": "purple"
+          },
+          {
+            "id": "7599170e-19a4-4ca5-9fbe-73107649f4fb",
+            "content": "???",
+            "color": "light gray"
+          }
+        ],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      },
+      {
+        "id": "26a7e305-0694-4dfc-9816-7f2430720d2a",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "New Column",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      },
+      {
+        "id": "d1592ad7-a1c2-4bd1-882c-69e79f7864b8",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "267px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "New Column",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      },
+      {
+        "id": "fc0d2eb6-f014-4779-bebe-72cd634c56b2",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "TYPE",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      },
+      {
+        "id": "2b6370cb-57a3-4c06-b95b-785e5512b181",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "291px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "New Column",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      }
+    ],
+    "rows": [
+      {
+        "id": "99a888d6-15e5-4959-ba84-0e65166ab33e",
+        "index": 0,
+        "sourceId": null,
+        "creationDateTime": "2024-03-04T21:10:56.353Z",
+        "lastEditedDateTime": "2024-03-05T00:34:55.196Z",
+        "cells": [
+          {
+            "id": "7f15de04-6dfc-430d-9c1e-7c528fc2430b",
+            "columnId": "8f5e3dba-476f-4726-b752-6fdf93267534",
+            "value": true,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "29d90eaa-8322-4c90-ad6f-8decb9abfb60",
+            "columnId": "f2d91edd-783e-448a-99fc-fb6216a5fbf3",
+            "value": true,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "f5b8b87e-7b6c-45af-8975-2f0139726995",
+            "columnId": "b1f44581-b1ab-4a11-b781-bc278108525f",
+            "content": "[[Plugins/DataLoom]]",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "6b7a963f-ec80-497c-a793-2e18374d6a9c",
+            "columnId": "b2404d75-240b-4177-b56c-ef5d4bd6b4a2",
+            "tagId": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "dfa97ac6-8116-439b-b6b7-3d3712c734f9",
+            "columnId": "26a7e305-0694-4dfc-9816-7f2430720d2a",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "32dfde15-f7bd-4ff0-902a-912bee4905c6",
+            "columnId": "d1592ad7-a1c2-4bd1-882c-69e79f7864b8",
+            "content": "Weave together data from diverse sources into different views. Inspired by Excel Spreadsheets and Notion.so.",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "632a25ad-6d83-4be3-91bb-b2d0784e5e50",
+            "columnId": "fc0d2eb6-f014-4779-bebe-72cd634c56b2",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "caa1c01a-401d-4ab6-bd0d-76d5b957b4f4",
+            "columnId": "2b6370cb-57a3-4c06-b95b-785e5512b181",
+            "content": "",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "00036967-6411-4599-a4a2-6e03d2e94ab8",
+        "index": 1,
+        "sourceId": null,
+        "creationDateTime": "2024-03-04T22:09:58.393Z",
+        "lastEditedDateTime": "2024-03-04T23:42:22.390Z",
+        "cells": [
+          {
+            "id": "71d6d288-da3f-4f3d-af99-3695e8c07d2b",
+            "columnId": "8f5e3dba-476f-4726-b752-6fdf93267534",
+            "value": false,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "9140e39c-b489-4bf5-a6f9-1161cdde700a",
+            "columnId": "f2d91edd-783e-448a-99fc-fb6216a5fbf3",
+            "value": true,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "e83b3f99-c181-4129-b964-c1a571077268",
+            "columnId": "b1f44581-b1ab-4a11-b781-bc278108525f",
+            "content": "Projects",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "7b858965-1764-4ec2-982d-cea81d8c0d39",
+            "columnId": "b2404d75-240b-4177-b56c-ef5d4bd6b4a2",
+            "tagId": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "8daac6c2-2c3e-4875-8ff9-bb140fad54d6",
+            "columnId": "26a7e305-0694-4dfc-9816-7f2430720d2a",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "7b25c6a4-6542-4162-ae64-7d8d162b79c8",
+            "columnId": "d1592ad7-a1c2-4bd1-882c-69e79f7864b8",
+            "content": "plain text project planning.",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "612c31b1-0c20-495a-99eb-556e66c04153",
+            "columnId": "fc0d2eb6-f014-4779-bebe-72cd634c56b2",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "b23720c4-d71b-440c-9140-6c89b4926890",
+            "columnId": "2b6370cb-57a3-4c06-b95b-785e5512b181",
+            "content": "",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "9a714346-ed73-4402-86e8-fb37595e74ad",
+        "index": 2,
+        "sourceId": null,
+        "creationDateTime": "2024-03-04T22:10:12.168Z",
+        "lastEditedDateTime": "2024-03-06T18:17:20.417Z",
+        "cells": [
+          {
+            "id": "228ba53d-d33f-4c62-92f7-f812d6e8882e",
+            "columnId": "8f5e3dba-476f-4726-b752-6fdf93267534",
+            "value": true,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "0322921c-494d-453e-9b48-56b88100c9f6",
+            "columnId": "f2d91edd-783e-448a-99fc-fb6216a5fbf3",
+            "value": true,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "680868c5-6424-4bc2-b097-e4ac220286dc",
+            "columnId": "b1f44581-b1ab-4a11-b781-bc278108525f",
+            "content": "Outliner",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "22538879-a0d8-4e83-80e3-4a44d28e3463",
+            "columnId": "b2404d75-240b-4177-b56c-ef5d4bd6b4a2",
+            "tagId": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "c4797ca3-b791-4a39-b8c3-17867a25c332",
+            "columnId": "26a7e305-0694-4dfc-9816-7f2430720d2a",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "805471ea-514d-4858-b139-a10c86c9d85d",
+            "columnId": "d1592ad7-a1c2-4bd1-882c-69e79f7864b8",
+            "content": "Work with your lists like in Workflowy or RoamResearch.",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "da716b57-9766-482c-aee5-c60c4aeeea85",
+            "columnId": "fc0d2eb6-f014-4779-bebe-72cd634c56b2",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "99a3a00f-433a-4755-8edd-aba1174f9b63",
+            "columnId": "2b6370cb-57a3-4c06-b95b-785e5512b181",
+            "content": "bullets, lists",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "a367b46d-ddac-4cfc-b59c-0de44ad348de",
+        "index": 3,
+        "sourceId": null,
+        "creationDateTime": "2024-03-04T22:40:15.798Z",
+        "lastEditedDateTime": "2024-03-06T18:17:24.954Z",
+        "cells": [
+          {
+            "id": "656b5724-4dc8-4b99-9ead-bbda9cdc27cd",
+            "columnId": "8f5e3dba-476f-4726-b752-6fdf93267534",
+            "value": true,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "dbd78e82-70fe-40d9-8507-67dcd2096059",
+            "columnId": "f2d91edd-783e-448a-99fc-fb6216a5fbf3",
+            "value": true,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "efc84ca5-95b4-476d-a324-6028b9f49272",
+            "columnId": "b1f44581-b1ab-4a11-b781-bc278108525f",
+            "content": "3D Graph New",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "ff89d6c5-1480-4cfb-995b-deac712137dd",
+            "columnId": "b2404d75-240b-4177-b56c-ef5d4bd6b4a2",
+            "tagId": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "00463a9e-d535-4d3a-af44-aede86da83a9",
+            "columnId": "26a7e305-0694-4dfc-9816-7f2430720d2a",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "aa8cdd59-1f89-48f5-a280-5e9b182f7fdb",
+            "columnId": "d1592ad7-a1c2-4bd1-882c-69e79f7864b8",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "07df1314-56b3-4044-ab43-ed55526c899e",
+            "columnId": "fc0d2eb6-f014-4779-bebe-72cd634c56b2",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "dc198cf0-ef65-49fe-9042-2f0b6a574b15",
+            "columnId": "2b6370cb-57a3-4c06-b95b-785e5512b181",
+            "content": "graph view",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "9c900e5b-1d76-4035-b44d-7bd1424f0538",
+        "index": 4,
+        "sourceId": null,
+        "creationDateTime": "2024-03-04T22:42:00.617Z",
+        "lastEditedDateTime": "2024-03-06T18:17:28.893Z",
+        "cells": [
+          {
+            "id": "785ba3b5-11d9-4675-9016-d17f63539c28",
+            "columnId": "8f5e3dba-476f-4726-b752-6fdf93267534",
+            "value": true,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "1848ca14-8673-4e90-a859-b19a291ee316",
+            "columnId": "f2d91edd-783e-448a-99fc-fb6216a5fbf3",
+            "value": true,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "8dfbe27a-f38e-4cb2-8945-dbc1df469caa",
+            "columnId": "b1f44581-b1ab-4a11-b781-bc278108525f",
+            "content": "Auto Hide",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "3b0a64c1-c6c2-4e12-9772-130a32642cc0",
+            "columnId": "b2404d75-240b-4177-b56c-ef5d4bd6b4a2",
+            "tagId": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "8813e2b6-eaa7-430b-ae5c-e7b1e675644a",
+            "columnId": "26a7e305-0694-4dfc-9816-7f2430720d2a",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "276fe8cf-2261-44c7-9b53-afa8479650d6",
+            "columnId": "d1592ad7-a1c2-4bd1-882c-69e79f7864b8",
+            "content": "collapse sidebars when clicking on the editor/viewer panel",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "5a5f3b5d-6f7f-48b3-bbdc-1b4bcf8365ac",
+            "columnId": "fc0d2eb6-f014-4779-bebe-72cd634c56b2",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "745b66c5-ac26-4cdf-b7b1-9082a77f771e",
+            "columnId": "2b6370cb-57a3-4c06-b95b-785e5512b181",
+            "content": "sidebars",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "9560dc27-3c98-401b-b4d8-32c9adbb1028",
+        "index": 5,
+        "sourceId": null,
+        "creationDateTime": "2024-03-04T22:42:32.729Z",
+        "lastEditedDateTime": "2024-03-06T18:17:32.021Z",
+        "cells": [
+          {
+            "id": "1cdee83b-1cdc-4d16-a6dc-03d03993c304",
+            "columnId": "8f5e3dba-476f-4726-b752-6fdf93267534",
+            "value": true,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "c8545493-39b4-4751-af6f-53b2ab363f29",
+            "columnId": "f2d91edd-783e-448a-99fc-fb6216a5fbf3",
+            "value": true,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "5f353f60-cab3-4d41-bda4-a2016374937c",
+            "columnId": "b1f44581-b1ab-4a11-b781-bc278108525f",
+            "content": "Auto Hide Cursor",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "b33a4e0a-0996-413c-8010-1fd89a78014a",
+            "columnId": "b2404d75-240b-4177-b56c-ef5d4bd6b4a2",
+            "tagId": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "d3e3f78d-4df7-4b1c-8b7c-abf2d1dda6ab",
+            "columnId": "26a7e305-0694-4dfc-9816-7f2430720d2a",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "7887a4e7-4acb-4a03-95c9-ee2b2d5ed6c3",
+            "columnId": "d1592ad7-a1c2-4bd1-882c-69e79f7864b8",
+            "content": "Hides the cursor when scrolling and shows it again when moving the mouse.",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "c15c3b5d-9df6-486c-843d-5546e75f9064",
+            "columnId": "fc0d2eb6-f014-4779-bebe-72cd634c56b2",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "94de1027-a02a-4c32-8fe1-dd506ec11b71",
+            "columnId": "2b6370cb-57a3-4c06-b95b-785e5512b181",
+            "content": "sidebars",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "57210234-5d23-4706-b80d-d8562ff7fff4",
+        "index": 6,
+        "sourceId": null,
+        "creationDateTime": "2024-03-04T22:42:46.716Z",
+        "lastEditedDateTime": "2024-03-06T18:17:40.054Z",
+        "cells": [
+          {
+            "id": "1f4df428-fca4-48ff-be9e-1068b8d71a75",
+            "columnId": "8f5e3dba-476f-4726-b752-6fdf93267534",
+            "value": false,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "d81ce84c-1e38-4a04-b9c7-2ad41c2f9996",
+            "columnId": "f2d91edd-783e-448a-99fc-fb6216a5fbf3",
+            "value": true,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "dcce25fc-935f-4a77-89ea-ba0aaba3668b",
+            "columnId": "b1f44581-b1ab-4a11-b781-bc278108525f",
+            "content": "Cannoli",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "f74b687f-2806-40b9-8d2e-01404fcfa683",
+            "columnId": "b2404d75-240b-4177-b56c-ef5d4bd6b4a2",
+            "tagId": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "3d42a35b-b3c8-415d-942a-d8022220d2e6",
+            "columnId": "26a7e305-0694-4dfc-9816-7f2430720d2a",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "d19bd1bf-1066-41eb-8af9-dc39608743b4",
+            "columnId": "d1592ad7-a1c2-4bd1-882c-69e79f7864b8",
+            "content": "Create and run LLM scripts on the Obsidian Canvas .",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "1abc8ce5-5a73-4722-ab4c-b3bb4c7614d1",
+            "columnId": "fc0d2eb6-f014-4779-bebe-72cd634c56b2",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "0a48bce3-e05d-48a0-908a-ac3a6ba4b2ee",
+            "columnId": "2b6370cb-57a3-4c06-b95b-785e5512b181",
+            "content": "canvas",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "15c9ec75-553b-4b53-9691-e6d6711d73fd",
+        "index": 7,
+        "sourceId": null,
+        "creationDateTime": "2024-03-04T22:43:09.756Z",
+        "lastEditedDateTime": "2024-03-06T18:17:42.891Z",
+        "cells": [
+          {
+            "id": "cb5e2059-5377-4814-b24c-5c4307d538d3",
+            "columnId": "8f5e3dba-476f-4726-b752-6fdf93267534",
+            "value": false,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "36a45723-9d38-4a3e-a76d-ab389e1affa2",
+            "columnId": "f2d91edd-783e-448a-99fc-fb6216a5fbf3",
+            "value": true,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "b391b110-c281-479a-801a-41e9df9a738d",
+            "columnId": "b1f44581-b1ab-4a11-b781-bc278108525f",
+            "content": "Canvas Card Background Remover",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "9f4309a5-25c8-4d13-b2e3-9541f272a7df",
+            "columnId": "b2404d75-240b-4177-b56c-ef5d4bd6b4a2",
+            "tagId": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "8a882caf-3dee-45a6-9cf3-3b6d6d77e510",
+            "columnId": "26a7e305-0694-4dfc-9816-7f2430720d2a",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "82d36511-55e8-48e5-aeb9-bf59c48ffaa5",
+            "columnId": "d1592ad7-a1c2-4bd1-882c-69e79f7864b8",
+            "content": "make the background of cards transparent in the Canvas",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "726e3fc5-daeb-4992-816a-e91dd370c374",
+            "columnId": "fc0d2eb6-f014-4779-bebe-72cd634c56b2",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "892deb6d-f88e-4ddb-82c1-cb241442b618",
+            "columnId": "2b6370cb-57a3-4c06-b95b-785e5512b181",
+            "content": "canvas",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "c9e6c332-21a2-4645-9ea6-82f975623aed",
+        "index": 8,
+        "sourceId": null,
+        "creationDateTime": "2024-03-04T22:43:44.911Z",
+        "lastEditedDateTime": "2024-03-06T18:17:47.292Z",
+        "cells": [
+          {
+            "id": "88d8af24-52a1-494b-a9f0-44b650d72317",
+            "columnId": "8f5e3dba-476f-4726-b752-6fdf93267534",
+            "value": false,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "9c263737-2d35-4c8e-9123-4165c02d578e",
+            "columnId": "f2d91edd-783e-448a-99fc-fb6216a5fbf3",
+            "value": true,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "cf11de54-d059-4e7e-a26b-04ccc426d962",
+            "columnId": "b1f44581-b1ab-4a11-b781-bc278108525f",
+            "content": "Canvas Daily Note",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "f942a443-b788-487d-9976-3257aa0c9bc2",
+            "columnId": "b2404d75-240b-4177-b56c-ef5d4bd6b4a2",
+            "tagId": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "d375d4b4-ff37-4d37-bbf0-30641295e581",
+            "columnId": "26a7e305-0694-4dfc-9816-7f2430720d2a",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "aff2ea30-157f-4fc4-9444-bcdb8e757a69",
+            "columnId": "d1592ad7-a1c2-4bd1-882c-69e79f7864b8",
+            "content": "add a daily note node to the canvas that will always show todays note.",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "64f0e5f8-e6eb-40c8-a184-57275212e67d",
+            "columnId": "fc0d2eb6-f014-4779-bebe-72cd634c56b2",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "7a46fd59-e48b-4ca1-b442-70c37a46cb53",
+            "columnId": "2b6370cb-57a3-4c06-b95b-785e5512b181",
+            "content": "canvas",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "4c76b7b9-7cff-43b5-92cb-39a4b256d6a2",
+        "index": 9,
+        "sourceId": null,
+        "creationDateTime": "2024-03-04T22:44:05.222Z",
+        "lastEditedDateTime": "2024-03-06T18:17:49.631Z",
+        "cells": [
+          {
+            "id": "38908e14-159d-4c74-802f-9e0defe8edf5",
+            "columnId": "8f5e3dba-476f-4726-b752-6fdf93267534",
+            "value": false,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "8b8afcc5-21a4-41ec-96b7-83fbc2c5716c",
+            "columnId": "f2d91edd-783e-448a-99fc-fb6216a5fbf3",
+            "value": true,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "7b13ff68-6224-4e0b-b3c8-01238fc3e22a",
+            "columnId": "b1f44581-b1ab-4a11-b781-bc278108525f",
+            "content": "Canvas Link Optimzer",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "a1e4b0de-9241-4202-91d6-8937abf6a67c",
+            "columnId": "b2404d75-240b-4177-b56c-ef5d4bd6b4a2",
+            "tagId": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "2f372151-3425-4e1b-9c13-836b80b71431",
+            "columnId": "26a7e305-0694-4dfc-9816-7f2430720d2a",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "7605ae14-bfd7-4e72-b3fd-fec5735cdeab",
+            "columnId": "d1592ad7-a1c2-4bd1-882c-69e79f7864b8",
+            "content": "Optimize canvas links by displaying a page thumbnail.",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "fa056287-a0c7-4b0a-a863-47e63b8caa98",
+            "columnId": "fc0d2eb6-f014-4779-bebe-72cd634c56b2",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "28eb589b-6f33-4908-a983-41bc2d0742d8",
+            "columnId": "2b6370cb-57a3-4c06-b95b-785e5512b181",
+            "content": "canvas",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "803c773f-2312-4c62-99d3-fec709d09a2b",
+        "index": 10,
+        "sourceId": null,
+        "creationDateTime": "2024-03-04T22:44:32.634Z",
+        "lastEditedDateTime": "2024-03-06T18:17:54.750Z",
+        "cells": [
+          {
+            "id": "2915af78-7e3f-4e16-bda0-dc63dbb01d44",
+            "columnId": "8f5e3dba-476f-4726-b752-6fdf93267534",
+            "value": false,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "5b27e4b3-ae0f-49b2-b0ad-009e53e5f823",
+            "columnId": "f2d91edd-783e-448a-99fc-fb6216a5fbf3",
+            "value": true,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "5ee6b5a7-0040-48f4-9ca3-4e0842e581e8",
+            "columnId": "b1f44581-b1ab-4a11-b781-bc278108525f",
+            "content": "Canvas Mindmap",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "307f9dd8-867f-4316-98f3-c6755a7dd2e3",
+            "columnId": "b2404d75-240b-4177-b56c-ef5d4bd6b4a2",
+            "tagId": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "1bce08df-a38f-4385-9519-9c0f7607ff38",
+            "columnId": "26a7e305-0694-4dfc-9816-7f2430720d2a",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "ff55d2c1-e19f-4907-980b-f68b30aa0b34",
+            "columnId": "d1592ad7-a1c2-4bd1-882c-69e79f7864b8",
+            "content": "A plugin to make your canvas work like a mindmap.",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "42cd759c-7dde-4b59-8aa8-70562ff2edd1",
+            "columnId": "fc0d2eb6-f014-4779-bebe-72cd634c56b2",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "efc3ccdb-6e86-40f9-b733-3a1429e5b07a",
+            "columnId": "2b6370cb-57a3-4c06-b95b-785e5512b181",
+            "content": "canvas",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "2dc5da09-aec9-4f48-a00d-6d5f89f9627d",
+        "index": 11,
+        "sourceId": null,
+        "creationDateTime": "2024-03-04T22:44:34.724Z",
+        "lastEditedDateTime": "2024-03-06T18:17:57.285Z",
+        "cells": [
+          {
+            "id": "3f2a565f-817f-4bc6-abbe-d9f6054e6910",
+            "columnId": "8f5e3dba-476f-4726-b752-6fdf93267534",
+            "value": false,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "a327066c-15bb-4f8e-b387-0f389a02506f",
+            "columnId": "f2d91edd-783e-448a-99fc-fb6216a5fbf3",
+            "value": true,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "8392b9bb-4941-4b6b-9f24-31d8b686534b",
+            "columnId": "b1f44581-b1ab-4a11-b781-bc278108525f",
+            "content": "Canvas Presentation",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "84d56e70-3318-47b9-bc93-9a74c502ecc3",
+            "columnId": "b2404d75-240b-4177-b56c-ef5d4bd6b4a2",
+            "tagId": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "22f98bb0-ff20-4e0a-94c7-198b0d561453",
+            "columnId": "26a7e305-0694-4dfc-9816-7f2430720d2a",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "3ee139d1-a920-4501-93ba-15a11ebddb62",
+            "columnId": "d1592ad7-a1c2-4bd1-882c-69e79f7864b8",
+            "content": "A plugin to help you display cards based on sequence.",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "dc041318-89c6-457c-917b-0346e5fd119a",
+            "columnId": "fc0d2eb6-f014-4779-bebe-72cd634c56b2",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "bcbb223a-5a13-410a-aa2c-309ba9bb71d1",
+            "columnId": "2b6370cb-57a3-4c06-b95b-785e5512b181",
+            "content": "canvas",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "b7742d88-c607-4070-86e0-e800fa27bb8b",
+        "index": 12,
+        "sourceId": null,
+        "creationDateTime": "2024-03-04T22:44:58.411Z",
+        "lastEditedDateTime": "2024-03-06T18:17:59.431Z",
+        "cells": [
+          {
+            "id": "d617f3e5-1bb2-4b9d-866c-03f165909135",
+            "columnId": "8f5e3dba-476f-4726-b752-6fdf93267534",
+            "value": false,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "ec345560-9e29-4243-96b8-750a0256fba1",
+            "columnId": "f2d91edd-783e-448a-99fc-fb6216a5fbf3",
+            "value": true,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "6f8f7982-5194-4158-ad90-eeb36aa4898f",
+            "columnId": "b1f44581-b1ab-4a11-b781-bc278108525f",
+            "content": "Canvas Random Note",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "7460286e-0c2c-43cd-b2e5-f17cb33f0c6b",
+            "columnId": "b2404d75-240b-4177-b56c-ef5d4bd6b4a2",
+            "tagId": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "9f961972-232b-4fe0-8247-d3eca82fb287",
+            "columnId": "26a7e305-0694-4dfc-9816-7f2430720d2a",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "bdb50333-c05f-486b-8735-654f22398144",
+            "columnId": "d1592ad7-a1c2-4bd1-882c-69e79f7864b8",
+            "content": "Add random notes from your vault to the Obsidian canvas",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "75692510-c38c-4ae7-99e3-f5c923734e40",
+            "columnId": "fc0d2eb6-f014-4779-bebe-72cd634c56b2",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "19192825-f6d1-4e35-b38e-bdfde43f9704",
+            "columnId": "2b6370cb-57a3-4c06-b95b-785e5512b181",
+            "content": "canvas",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "d3ba0a06-af73-47e9-9597-0d84670e0913",
+        "index": 13,
+        "sourceId": null,
+        "creationDateTime": "2024-03-04T22:45:12.218Z",
+        "lastEditedDateTime": "2024-03-04T23:42:08.051Z",
+        "cells": [
+          {
+            "id": "b5e81ef2-bcf8-4bea-9b1a-9182a585259d",
+            "columnId": "8f5e3dba-476f-4726-b752-6fdf93267534",
+            "value": false,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "05f8427b-6dd7-4890-b679-089bdb10b38a",
+            "columnId": "f2d91edd-783e-448a-99fc-fb6216a5fbf3",
+            "value": true,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "cbe173c0-9751-4ef7-bfd6-530b35ab1989",
+            "columnId": "b1f44581-b1ab-4a11-b781-bc278108525f",
+            "content": "Canvas Send To Back",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "19c2dba5-41b3-455c-9d85-3fd0fc76fe9f",
+            "columnId": "b2404d75-240b-4177-b56c-ef5d4bd6b4a2",
+            "tagId": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "18fa286f-4892-4a07-a6ec-95c611337f36",
+            "columnId": "26a7e305-0694-4dfc-9816-7f2430720d2a",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "e1af56f4-1d3f-4a2a-8e4e-c7a8507f1f13",
+            "columnId": "d1592ad7-a1c2-4bd1-882c-69e79f7864b8",
+            "content": "Send a card in Obsidian Canvas to be behind all other cards.",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "acb0b67a-ed2f-4258-b12f-253771827723",
+            "columnId": "fc0d2eb6-f014-4779-bebe-72cd634c56b2",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "fbd654ee-726e-40be-b1d3-3b17d21bcd23",
+            "columnId": "2b6370cb-57a3-4c06-b95b-785e5512b181",
+            "content": "canvas",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "eb69bd57-7cf6-4b44-9485-0593fafb4214",
+        "index": 14,
+        "sourceId": null,
+        "creationDateTime": "2024-03-04T22:45:38.011Z",
+        "lastEditedDateTime": "2024-03-04T23:42:06.983Z",
+        "cells": [
+          {
+            "id": "6f5eb12c-767e-4f3d-acf6-51fced727610",
+            "columnId": "8f5e3dba-476f-4726-b752-6fdf93267534",
+            "value": false,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "9c059b13-f7ac-4b82-ac49-95f11c04e424",
+            "columnId": "f2d91edd-783e-448a-99fc-fb6216a5fbf3",
+            "value": true,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "7be431de-9e78-4f17-8e4a-11cafe433828",
+            "columnId": "b1f44581-b1ab-4a11-b781-bc278108525f",
+            "content": "CardNote",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "ba1066b5-de8c-4d50-bf1a-156a35adac70",
+            "columnId": "b2404d75-240b-4177-b56c-ef5d4bd6b4a2",
+            "tagId": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "3b65589f-89c7-4fd4-b32e-85a081dccf46",
+            "columnId": "26a7e305-0694-4dfc-9816-7f2430720d2a",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "7cde2830-97ec-4732-9733-8e87c13bdd16",
+            "columnId": "d1592ad7-a1c2-4bd1-882c-69e79f7864b8",
+            "content": "Help you quickly extract your thoughts in the Canvas and Excalidraw",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "ada2c929-4cc6-46e7-8552-419010d8bb54",
+            "columnId": "fc0d2eb6-f014-4779-bebe-72cd634c56b2",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "1d883669-7ff9-4847-9b55-a1e170c33361",
+            "columnId": "2b6370cb-57a3-4c06-b95b-785e5512b181",
+            "content": "canvas",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "8a91be1b-f342-4b98-9475-74f9dd248483",
+        "index": 15,
+        "sourceId": null,
+        "creationDateTime": "2024-03-04T22:45:39.225Z",
+        "lastEditedDateTime": "2024-03-04T23:42:06.171Z",
+        "cells": [
+          {
+            "id": "cca7ab02-a3c8-49d4-a702-3431bf0bd1fe",
+            "columnId": "8f5e3dba-476f-4726-b752-6fdf93267534",
+            "value": false,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "b8fa3381-ecb2-4efa-91d4-615239f74c91",
+            "columnId": "f2d91edd-783e-448a-99fc-fb6216a5fbf3",
+            "value": true,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "3587500a-c660-4b6a-ab68-5635181efa1e",
+            "columnId": "b1f44581-b1ab-4a11-b781-bc278108525f",
+            "content": "CollapseNode",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "bf163051-a486-48e5-a9bc-d34166cd9d37",
+            "columnId": "b2404d75-240b-4177-b56c-ef5d4bd6b4a2",
+            "tagId": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "4ca526da-fda3-43cb-b117-ce2996e98926",
+            "columnId": "26a7e305-0694-4dfc-9816-7f2430720d2a",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "b36c9422-a436-45b7-84c9-4e618c1ccaf8",
+            "columnId": "d1592ad7-a1c2-4bd1-882c-69e79f7864b8",
+            "content": "collapse node in canvas.",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "7b91683a-7c5d-4879-a6a2-2b6c0a621442",
+            "columnId": "fc0d2eb6-f014-4779-bebe-72cd634c56b2",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "2dbb3019-b7a6-41d3-9ed4-4a876629d609",
+            "columnId": "2b6370cb-57a3-4c06-b95b-785e5512b181",
+            "content": "canvas",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "72692920-6883-4eab-8e64-5a6b8a866c5b",
+        "index": 16,
+        "sourceId": null,
+        "creationDateTime": "2024-03-04T22:46:28.270Z",
+        "lastEditedDateTime": "2024-03-04T23:42:05.309Z",
+        "cells": [
+          {
+            "id": "458d1273-82cd-4988-b919-6686b2878639",
+            "columnId": "8f5e3dba-476f-4726-b752-6fdf93267534",
+            "value": false,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "d07cd50f-7cc2-423a-aaa5-53204d375445",
+            "columnId": "f2d91edd-783e-448a-99fc-fb6216a5fbf3",
+            "value": true,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "6f67d1f1-4d18-47ee-a311-3ac8865cfe3d",
+            "columnId": "b1f44581-b1ab-4a11-b781-bc278108525f",
+            "content": "Dataview",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "1ed4dba0-1329-493f-98e5-3ac10abef61e",
+            "columnId": "b2404d75-240b-4177-b56c-ef5d4bd6b4a2",
+            "tagId": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "ba897fdc-ca9f-405b-b9cd-2f37cffb53e9",
+            "columnId": "26a7e305-0694-4dfc-9816-7f2430720d2a",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "1f903ec6-26b9-4e89-83eb-ef8f05c12688",
+            "columnId": "d1592ad7-a1c2-4bd1-882c-69e79f7864b8",
+            "content": "Complex data views for the data-obsessed.",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "d6834207-ea45-4399-88c8-a5c265bc33c3",
+            "columnId": "fc0d2eb6-f014-4779-bebe-72cd634c56b2",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "086d058f-f885-46e0-b947-1d78ef47508c",
+            "columnId": "2b6370cb-57a3-4c06-b95b-785e5512b181",
+            "content": "",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "31057cd4-9444-46f7-937a-5298528fdf57",
+        "index": 17,
+        "sourceId": null,
+        "creationDateTime": "2024-03-04T22:46:29.307Z",
+        "lastEditedDateTime": "2024-03-05T00:39:45.869Z",
+        "cells": [
+          {
+            "id": "10da01e9-e3dc-43be-bbc9-1bc91fb330a3",
+            "columnId": "8f5e3dba-476f-4726-b752-6fdf93267534",
+            "value": false,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "604dae72-4c68-48e0-a08a-675e73a6d90e",
+            "columnId": "f2d91edd-783e-448a-99fc-fb6216a5fbf3",
+            "value": false,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "7b48055e-e2f5-4117-bf6d-642f4533f61e",
+            "columnId": "b1f44581-b1ab-4a11-b781-bc278108525f",
+            "content": "Double Click Tab",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "f02a2317-bb8b-423d-8416-75bafce44638",
+            "columnId": "b2404d75-240b-4177-b56c-ef5d4bd6b4a2",
+            "tagId": "701bb736-50d9-4e4f-8797-03c9d8b5dbfd",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "37495826-c88b-4b93-9370-240919ebf85e",
+            "columnId": "26a7e305-0694-4dfc-9816-7f2430720d2a",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "afd85720-f815-4d2b-94d9-c67201537c8c",
+            "columnId": "d1592ad7-a1c2-4bd1-882c-69e79f7864b8",
+            "content": "A plugin to modify the default behavior when you double click on the tab title",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "811d7f20-1a9b-4754-a2e0-a3aafcdc2971",
+            "columnId": "fc0d2eb6-f014-4779-bebe-72cd634c56b2",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "d8badc7f-3179-405e-b700-bc5efdf2102d",
+            "columnId": "2b6370cb-57a3-4c06-b95b-785e5512b181",
+            "content": "tab",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "d731bd62-cb7d-4cd3-b8a6-8327ef7ffcb9",
+        "index": 18,
+        "sourceId": null,
+        "creationDateTime": "2024-03-04T22:46:47.821Z",
+        "lastEditedDateTime": "2024-03-05T00:46:14.344Z",
+        "cells": [
+          {
+            "id": "59125427-d682-4fb9-9f26-db5332883e31",
+            "columnId": "8f5e3dba-476f-4726-b752-6fdf93267534",
+            "value": true,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "efd45f8b-a700-40ea-98cd-aa7b81991fb3",
+            "columnId": "f2d91edd-783e-448a-99fc-fb6216a5fbf3",
+            "value": true,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "3d544ad7-89f2-4d42-a833-07c01e17408b",
+            "columnId": "b1f44581-b1ab-4a11-b781-bc278108525f",
+            "content": "Excalidraw",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "e3554f3e-5905-4437-8a1a-8035b1773b47",
+            "columnId": "b2404d75-240b-4177-b56c-ef5d4bd6b4a2",
+            "tagId": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "b8cdadfc-459e-44cd-be50-43efc7c678cf",
+            "columnId": "26a7e305-0694-4dfc-9816-7f2430720d2a",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "5586d5a6-41d5-420b-aa16-5b9ce9251270",
+            "columnId": "d1592ad7-a1c2-4bd1-882c-69e79f7864b8",
+            "content": "An Obsidian plugin to edit and view Excalidraw drawings",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "2573fec8-cff1-418e-b957-6f06bb1b2fb4",
+            "columnId": "fc0d2eb6-f014-4779-bebe-72cd634c56b2",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "1e36c5ec-6fa8-4229-84dc-3b4a75fcf7fc",
+            "columnId": "2b6370cb-57a3-4c06-b95b-785e5512b181",
+            "content": "",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "9caa5e51-04aa-429a-9a9d-df0a356ee85f",
+        "index": 19,
+        "sourceId": null,
+        "creationDateTime": "2024-03-04T22:47:18.832Z",
+        "lastEditedDateTime": "2024-03-04T23:42:00.389Z",
+        "cells": [
+          {
+            "id": "f8338608-dc5b-4cb8-8ad4-c05094ab5c6d",
+            "columnId": "8f5e3dba-476f-4726-b752-6fdf93267534",
+            "value": false,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "3a370edd-c250-4e86-b5ea-e2372a272d56",
+            "columnId": "f2d91edd-783e-448a-99fc-fb6216a5fbf3",
+            "value": true,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "85bc5db8-3031-49f3-bbe0-5273d5497aa3",
+            "columnId": "b1f44581-b1ab-4a11-b781-bc278108525f",
+            "content": "Hider",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "52f9751e-931e-4a21-be05-1f89958cc8e9",
+            "columnId": "b2404d75-240b-4177-b56c-ef5d4bd6b4a2",
+            "tagId": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "17ff2708-7056-4d20-b90d-52fa9924df93",
+            "columnId": "26a7e305-0694-4dfc-9816-7f2430720d2a",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "514169cd-c26f-4748-88e6-298349ba62a8",
+            "columnId": "d1592ad7-a1c2-4bd1-882c-69e79f7864b8",
+            "content": "Hide UI elements such as tool tips, status, titlebar and more",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "123a8333-6aad-4db1-b988-a57371bc8b56",
+            "columnId": "fc0d2eb6-f014-4779-bebe-72cd634c56b2",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "c82254b1-837d-4d22-990e-76f1a30a1b0a",
+            "columnId": "2b6370cb-57a3-4c06-b95b-785e5512b181",
+            "content": "UI",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "3104b349-c865-4561-abd0-4af0b33fc3d8",
+        "index": 20,
+        "sourceId": null,
+        "creationDateTime": "2024-03-04T22:47:27.053Z",
+        "lastEditedDateTime": "2024-03-04T23:41:59.340Z",
+        "cells": [
+          {
+            "id": "fb53267a-d394-4934-9ba8-c83542c211c0",
+            "columnId": "8f5e3dba-476f-4726-b752-6fdf93267534",
+            "value": false,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "10a7e980-78b0-493c-9307-9c9872cf9a2d",
+            "columnId": "f2d91edd-783e-448a-99fc-fb6216a5fbf3",
+            "value": true,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "cc295cf8-d81c-4e6a-88f2-a1fe37c930db",
+            "columnId": "b1f44581-b1ab-4a11-b781-bc278108525f",
+            "content": "Home tab",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "2e071863-7e6d-4642-a87e-094c272b02a3",
+            "columnId": "b2404d75-240b-4177-b56c-ef5d4bd6b4a2",
+            "tagId": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "7c0177b7-a3ad-480b-9073-a70765583b46",
+            "columnId": "26a7e305-0694-4dfc-9816-7f2430720d2a",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "854e6c5e-6f4a-42ed-9a88-4b3f0d494576",
+            "columnId": "d1592ad7-a1c2-4bd1-882c-69e79f7864b8",
+            "content": "A browser-like search tab for your local files.",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "4f6aa2e3-6cf1-498d-81f4-99a1674fc7d5",
+            "columnId": "fc0d2eb6-f014-4779-bebe-72cd634c56b2",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "fe1ca5e7-7c87-4cb4-8f50-10933d0eafd8",
+            "columnId": "2b6370cb-57a3-4c06-b95b-785e5512b181",
+            "content": "",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "a9a1e9a2-aee1-4fcd-9aa5-cac69d3f3a04",
+        "index": 21,
+        "sourceId": null,
+        "creationDateTime": "2024-03-04T22:47:50.587Z",
+        "lastEditedDateTime": "2024-03-05T00:45:06.946Z",
+        "cells": [
+          {
+            "id": "8674b8a7-8356-4557-9fb7-6680eccc6055",
+            "columnId": "8f5e3dba-476f-4726-b752-6fdf93267534",
+            "value": false,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "becf0de5-e25c-44d7-a58a-a9cf2cd3b70f",
+            "columnId": "f2d91edd-783e-448a-99fc-fb6216a5fbf3",
+            "value": true,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "a731b36e-4594-4f03-bb0a-fb3aaa592c61",
+            "columnId": "b1f44581-b1ab-4a11-b781-bc278108525f",
+            "content": "Hover Editor",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "77052236-f25c-4427-87ee-4c4caa3497c9",
+            "columnId": "b2404d75-240b-4177-b56c-ef5d4bd6b4a2",
+            "tagId": "7599170e-19a4-4ca5-9fbe-73107649f4fb",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "8acf69c4-5a3d-45a1-9f97-be11333523fb",
+            "columnId": "26a7e305-0694-4dfc-9816-7f2430720d2a",
+            "content": "doesnt open in editor mode for some reason...",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "e47e1b88-7b85-4c71-a7e2-2e0fd8f46a81",
+            "columnId": "d1592ad7-a1c2-4bd1-882c-69e79f7864b8",
+            "content": "Transform the Page Preview hover popover into a fully working editor instance",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "1cef6795-56f0-468a-9ced-5b8877dccabb",
+            "columnId": "fc0d2eb6-f014-4779-bebe-72cd634c56b2",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "1af2be22-eef2-46a1-8242-afc8bdf8abf0",
+            "columnId": "2b6370cb-57a3-4c06-b95b-785e5512b181",
+            "content": "editor",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "f2e83e7f-989a-4d72-aadd-c5ee41553e82",
+        "index": 22,
+        "sourceId": null,
+        "creationDateTime": "2024-03-04T22:48:05.819Z",
+        "lastEditedDateTime": "2024-03-05T00:46:53.612Z",
+        "cells": [
+          {
+            "id": "290ad569-23e4-430e-a69d-40fec07148e3",
+            "columnId": "8f5e3dba-476f-4726-b752-6fdf93267534",
+            "value": false,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "90ee2b85-cf7e-46b6-b4d2-376ac735fe5e",
+            "columnId": "f2d91edd-783e-448a-99fc-fb6216a5fbf3",
+            "value": true,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "4808cd9b-de0d-4a78-bb50-95176b2b8541",
+            "columnId": "b1f44581-b1ab-4a11-b781-bc278108525f",
+            "content": "MAKE.md",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "b24923ae-5b89-4996-b0ba-a379ddd565be",
+            "columnId": "b2404d75-240b-4177-b56c-ef5d4bd6b4a2",
+            "tagId": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "078828d5-77e2-43ff-9d01-25de7e968e42",
+            "columnId": "26a7e305-0694-4dfc-9816-7f2430720d2a",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "d8d8b123-835a-4044-9e1e-19cc75e4021b",
+            "columnId": "d1592ad7-a1c2-4bd1-882c-69e79f7864b8",
+            "content": "Make.md brings powerful and modern note-taking features to Obsidian. Capture, organize\nand connect information with more flexibility without any code.",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "b8afd85e-45dd-4785-a0d8-92ba91e29154",
+            "columnId": "fc0d2eb6-f014-4779-bebe-72cd634c56b2",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "3b31b7c9-8611-4181-a8d0-4c60983ed5f9",
+            "columnId": "2b6370cb-57a3-4c06-b95b-785e5512b181",
+            "content": "",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "a0652657-d0ba-4710-a7ef-fbd8e6d0b0c4",
+        "index": 23,
+        "sourceId": null,
+        "creationDateTime": "2024-03-04T22:48:20.725Z",
+        "lastEditedDateTime": "2024-03-04T23:41:53.871Z",
+        "cells": [
+          {
+            "id": "c41f8ed7-7361-4e41-8cd1-5453150d4ecd",
+            "columnId": "8f5e3dba-476f-4726-b752-6fdf93267534",
+            "value": false,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "e2022a5a-9bba-4ed7-b6c1-48234d722941",
+            "columnId": "f2d91edd-783e-448a-99fc-fb6216a5fbf3",
+            "value": true,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "af440624-454e-44b8-9c75-8ef9c1fd54eb",
+            "columnId": "b1f44581-b1ab-4a11-b781-bc278108525f",
+            "content": "Marp",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "b5c81a19-b8ca-4d40-be89-b4f0f855a8b6",
+            "columnId": "b2404d75-240b-4177-b56c-ef5d4bd6b4a2",
+            "tagId": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "5d71894d-5d87-485b-9f44-be5235a23c70",
+            "columnId": "26a7e305-0694-4dfc-9816-7f2430720d2a",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "66bffa18-dcad-4738-885b-1d2cdd92f95c",
+            "columnId": "d1592ad7-a1c2-4bd1-882c-69e79f7864b8",
+            "content": "Plugin for using Marp on Obsidian.",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "46f139bb-d26a-4557-9fc1-4df2e3886c7b",
+            "columnId": "fc0d2eb6-f014-4779-bebe-72cd634c56b2",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "b0cc9181-7998-445d-a60e-cbbbe8b3faf7",
+            "columnId": "2b6370cb-57a3-4c06-b95b-785e5512b181",
+            "content": "",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "89a3cd3d-a454-46d6-8ea8-21f51aa8a2b2",
+        "index": 24,
+        "sourceId": null,
+        "creationDateTime": "2024-03-04T22:48:21.906Z",
+        "lastEditedDateTime": "2024-03-04T23:41:51.990Z",
+        "cells": [
+          {
+            "id": "9781154c-7665-4b80-b48f-a2d482e4606c",
+            "columnId": "8f5e3dba-476f-4726-b752-6fdf93267534",
+            "value": false,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "65bdb311-b7ab-453b-80ca-2a05a9d18b03",
+            "columnId": "f2d91edd-783e-448a-99fc-fb6216a5fbf3",
+            "value": true,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "01d92990-13f8-4b32-881e-feb6a37cf383",
+            "columnId": "b1f44581-b1ab-4a11-b781-bc278108525f",
+            "content": "Minimal Theme Settings",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "a44ed0d9-edfd-49d1-a285-e9ccc7b28163",
+            "columnId": "b2404d75-240b-4177-b56c-ef5d4bd6b4a2",
+            "tagId": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "afb6a31d-04d6-4e40-850a-1bae3ce9f341",
+            "columnId": "26a7e305-0694-4dfc-9816-7f2430720d2a",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "c219840b-0484-4e68-a54e-dbf30d256d81",
+            "columnId": "d1592ad7-a1c2-4bd1-882c-69e79f7864b8",
+            "content": "Change the colors, fonts and features of Minimal Theme.",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "c78685e6-c4df-431b-b383-7d571c4646a6",
+            "columnId": "fc0d2eb6-f014-4779-bebe-72cd634c56b2",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "bfc2019b-c7bc-4033-81f8-a4f1370b276b",
+            "columnId": "2b6370cb-57a3-4c06-b95b-785e5512b181",
+            "content": "UI",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "ccf03cf5-2d15-4cbd-90b2-53bafacf4670",
+        "index": 25,
+        "sourceId": null,
+        "creationDateTime": "2024-03-04T22:48:53.571Z",
+        "lastEditedDateTime": "2024-03-04T23:41:48.669Z",
+        "cells": [
+          {
+            "id": "6aed9b7c-dc4f-4c90-8aea-93ad8ecf6a9c",
+            "columnId": "8f5e3dba-476f-4726-b752-6fdf93267534",
+            "value": false,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "ed3d16d5-3c2e-4332-8da5-d6a47b4c3b05",
+            "columnId": "f2d91edd-783e-448a-99fc-fb6216a5fbf3",
+            "value": true,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "72532c6b-be24-4087-846d-144f78ef2e25",
+            "columnId": "b1f44581-b1ab-4a11-b781-bc278108525f",
+            "content": "Natural Language Dates",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "dd775840-01c1-4ba9-9d29-06d00c43f126",
+            "columnId": "b2404d75-240b-4177-b56c-ef5d4bd6b4a2",
+            "tagId": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "e404bb43-8183-4cae-b17f-ff4420bfdb07",
+            "columnId": "26a7e305-0694-4dfc-9816-7f2430720d2a",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "e7d35a35-6118-4ced-8772-1f4f1fafa697",
+            "columnId": "d1592ad7-a1c2-4bd1-882c-69e79f7864b8",
+            "content": "Create date-links based on natural language",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "d7b6680f-83aa-4987-a8a6-98b58045e730",
+            "columnId": "fc0d2eb6-f014-4779-bebe-72cd634c56b2",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "5d90474c-3e31-4a35-86d8-73585d38d42e",
+            "columnId": "2b6370cb-57a3-4c06-b95b-785e5512b181",
+            "content": "",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "08a156c1-8f84-472e-a3b2-1aac6ac37ade",
+        "index": 26,
+        "sourceId": null,
+        "creationDateTime": "2024-03-04T22:48:54.786Z",
+        "lastEditedDateTime": "2024-03-04T23:41:47.322Z",
+        "cells": [
+          {
+            "id": "52287c58-aef9-4b2a-a76b-703dc3dd3696",
+            "columnId": "8f5e3dba-476f-4726-b752-6fdf93267534",
+            "value": false,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "eb4522db-1f33-4ced-aeca-d2a510e260de",
+            "columnId": "f2d91edd-783e-448a-99fc-fb6216a5fbf3",
+            "value": true,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "2e9afce6-54bc-41df-ae2d-7b8ec80eabf7",
+            "columnId": "b1f44581-b1ab-4a11-b781-bc278108525f",
+            "content": "obsidian-title-index",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "ce17c6f6-c331-4fe4-be03-e4af6b80c951",
+            "columnId": "b2404d75-240b-4177-b56c-ef5d4bd6b4a2",
+            "tagId": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "49cb69a2-31f4-4903-90fc-263f5bbe91fc",
+            "columnId": "26a7e305-0694-4dfc-9816-7f2430720d2a",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "94ae4c6c-0393-41ad-a380-0793c7d73e8c",
+            "columnId": "d1592ad7-a1c2-4bd1-882c-69e79f7864b8",
+            "content": "Add serial numbers to your Markdown title.",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "dc5be34e-ea03-4c0a-b024-5516eb573d63",
+            "columnId": "fc0d2eb6-f014-4779-bebe-72cd634c56b2",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "6990eba3-4dbf-4c35-a7d1-64f0c688bc46",
+            "columnId": "2b6370cb-57a3-4c06-b95b-785e5512b181",
+            "content": "",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "65f76777-a734-41ac-9a20-b399e4f94a2a",
+        "index": 27,
+        "sourceId": null,
+        "creationDateTime": "2024-03-04T22:49:13.650Z",
+        "lastEditedDateTime": "2024-03-04T23:41:45.720Z",
+        "cells": [
+          {
+            "id": "82077d5d-79a6-4606-9592-f6d0f5b7736a",
+            "columnId": "8f5e3dba-476f-4726-b752-6fdf93267534",
+            "value": false,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "f885f9f5-2404-4639-a65b-c44666736542",
+            "columnId": "f2d91edd-783e-448a-99fc-fb6216a5fbf3",
+            "value": true,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "1a3c9da9-51df-42ec-81db-e652ca27d214",
+            "columnId": "b1f44581-b1ab-4a11-b781-bc278108525f",
+            "content": "Optimize Canvas Connections",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "f48319ce-e857-4000-b6c0-2e68b3cf1467",
+            "columnId": "b2404d75-240b-4177-b56c-ef5d4bd6b4a2",
+            "tagId": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "24ea47fd-bf95-4359-80de-35f8d8a9e52f",
+            "columnId": "26a7e305-0694-4dfc-9816-7f2430720d2a",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "0e620177-5991-41a0-af3b-b67195ce268a",
+            "columnId": "d1592ad7-a1c2-4bd1-882c-69e79f7864b8",
+            "content": "declutters a canvas by reconnecting notes using their nearest edges.",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "ef19616f-7ac6-4390-af9f-e18f10690632",
+            "columnId": "fc0d2eb6-f014-4779-bebe-72cd634c56b2",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "a9c38c8e-b549-47cc-a1c1-d4e52a8e30ed",
+            "columnId": "2b6370cb-57a3-4c06-b95b-785e5512b181",
+            "content": "canvas",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "2f6fbb2f-0aae-4176-9b97-a46566ccd743",
+        "index": 28,
+        "sourceId": null,
+        "creationDateTime": "2024-03-04T22:49:39.312Z",
+        "lastEditedDateTime": "2024-03-04T23:41:44.220Z",
+        "cells": [
+          {
+            "id": "36700977-f731-40f8-ac82-9af7ccef1b81",
+            "columnId": "8f5e3dba-476f-4726-b752-6fdf93267534",
+            "value": false,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "e75904d9-32c1-46bb-a3ea-b2c7b3db56c0",
+            "columnId": "f2d91edd-783e-448a-99fc-fb6216a5fbf3",
+            "value": true,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "192f2089-5a33-412c-b066-2753f6caac6f",
+            "columnId": "b1f44581-b1ab-4a11-b781-bc278108525f",
+            "content": "Quick Explorer",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "9e83ca24-aa7a-4288-a6d9-1ab69f1edce2",
+            "columnId": "b2404d75-240b-4177-b56c-ef5d4bd6b4a2",
+            "tagId": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "7cf7a0d7-d39b-44a9-aa1b-8ea9003d4b3e",
+            "columnId": "26a7e305-0694-4dfc-9816-7f2430720d2a",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "4d887da9-18df-4d70-8246-ccc074d5a095",
+            "columnId": "d1592ad7-a1c2-4bd1-882c-69e79f7864b8",
+            "content": "perform file explorer operations (and see your current file path) from the title bar, using\nthe mouse or keyboard",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "4a9837fe-3135-4e62-888d-dced8a7cd520",
+            "columnId": "fc0d2eb6-f014-4779-bebe-72cd634c56b2",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "7a1df658-87fe-4501-8224-0ec9e233ddae",
+            "columnId": "2b6370cb-57a3-4c06-b95b-785e5512b181",
+            "content": "title bar",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "4fb2241c-1cac-4632-adc6-1a279c3c865e",
+        "index": 29,
+        "sourceId": null,
+        "creationDateTime": "2024-03-04T22:50:34.351Z",
+        "lastEditedDateTime": "2024-03-04T23:41:40.904Z",
+        "cells": [
+          {
+            "id": "c3db744e-37c3-4017-8c4b-dfa138e3dff7",
+            "columnId": "8f5e3dba-476f-4726-b752-6fdf93267534",
+            "value": false,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "d265d915-b300-4437-a7e3-dc96ee0d02f6",
+            "columnId": "f2d91edd-783e-448a-99fc-fb6216a5fbf3",
+            "value": true,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "6c428863-048c-496f-807f-25f2b8e1bd3c",
+            "columnId": "b1f44581-b1ab-4a11-b781-bc278108525f",
+            "content": "Recent Files",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "ce359887-4ce0-4ca1-b8bf-340d7d9a3f4a",
+            "columnId": "b2404d75-240b-4177-b56c-ef5d4bd6b4a2",
+            "tagId": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "eef85b8c-4495-43f7-9872-f0bcbd802bcc",
+            "columnId": "26a7e305-0694-4dfc-9816-7f2430720d2a",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "ec64fc68-21f3-4b16-9f7c-d59cffed585f",
+            "columnId": "d1592ad7-a1c2-4bd1-882c-69e79f7864b8",
+            "content": "List files by most recently opened",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "73a27871-7008-4efd-8db4-d9a7e8fdea74",
+            "columnId": "fc0d2eb6-f014-4779-bebe-72cd634c56b2",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "4c760eff-7175-4256-8c4a-d356b897a761",
+            "columnId": "2b6370cb-57a3-4c06-b95b-785e5512b181",
+            "content": "Sidebar",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "11c7d376-9461-4d19-958c-482d7bef3657",
+        "index": 30,
+        "sourceId": null,
+        "creationDateTime": "2024-03-04T22:50:54.304Z",
+        "lastEditedDateTime": "2024-03-04T23:41:38.889Z",
+        "cells": [
+          {
+            "id": "33503e6a-925e-4fad-9bf6-1ed0ebc2da53",
+            "columnId": "8f5e3dba-476f-4726-b752-6fdf93267534",
+            "value": false,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "644b67ee-f7a7-4c3f-b6c1-b2db6a2ff083",
+            "columnId": "f2d91edd-783e-448a-99fc-fb6216a5fbf3",
+            "value": true,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "7fbf4806-193b-4c8a-8b90-0d5e6334d2fb",
+            "columnId": "b1f44581-b1ab-4a11-b781-bc278108525f",
+            "content": "Reveal file in explorer",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "53befa89-91df-43e7-8549-69dc3c2f06e9",
+            "columnId": "b2404d75-240b-4177-b56c-ef5d4bd6b4a2",
+            "tagId": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "b88de718-90df-4506-b1a6-629270448a89",
+            "columnId": "26a7e305-0694-4dfc-9816-7f2430720d2a",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "5b0de119-b20f-4988-a40c-07202913f761",
+            "columnId": "d1592ad7-a1c2-4bd1-882c-69e79f7864b8",
+            "content": "Clicking header title reveal active file in explorer",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "6fc32617-d616-4784-aec8-076e5822695a",
+            "columnId": "fc0d2eb6-f014-4779-bebe-72cd634c56b2",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "51b305d6-9500-4320-bc57-33179cff18c8",
+            "columnId": "2b6370cb-57a3-4c06-b95b-785e5512b181",
+            "content": "side bar, title",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "00440815-3294-47fc-9615-97a30f7e75de",
+        "index": 31,
+        "sourceId": null,
+        "creationDateTime": "2024-03-04T22:51:21.808Z",
+        "lastEditedDateTime": "2024-03-06T18:17:11.427Z",
+        "cells": [
+          {
+            "id": "9445701e-8856-44f9-bc88-5f88d664c25e",
+            "columnId": "8f5e3dba-476f-4726-b752-6fdf93267534",
+            "value": false,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "924ed223-6fee-4f01-ab52-a8394d27a509",
+            "columnId": "f2d91edd-783e-448a-99fc-fb6216a5fbf3",
+            "value": true,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "ca633b02-d184-40ad-8230-ce7dc81a5ced",
+            "columnId": "b1f44581-b1ab-4a11-b781-bc278108525f",
+            "content": "Ribbon Divder",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "6e334bcf-afdb-41c7-8b64-53c2901e9101",
+            "columnId": "b2404d75-240b-4177-b56c-ef5d4bd6b4a2",
+            "tagId": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "cf511a67-ed8a-43a3-a683-9415a5f41d2a",
+            "columnId": "26a7e305-0694-4dfc-9816-7f2430720d2a",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "6e40f24a-a97a-43a4-8807-1efad04e0645",
+            "columnId": "d1592ad7-a1c2-4bd1-882c-69e79f7864b8",
+            "content": "Allows you to add dividers to the ribbon to space out your icons.",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "926bf2ba-8bdf-43ab-b364-138f7beb88d9",
+            "columnId": "fc0d2eb6-f014-4779-bebe-72cd634c56b2",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "e4759b11-c9f4-4017-a895-5df6a6329ea6",
+            "columnId": "2b6370cb-57a3-4c06-b95b-785e5512b181",
+            "content": "ribbon",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "f908e708-2e9f-47f1-96e1-61d70f47132f",
+        "index": 32,
+        "sourceId": null,
+        "creationDateTime": "2024-03-04T22:51:22.836Z",
+        "lastEditedDateTime": "2024-03-06T18:17:04.976Z",
+        "cells": [
+          {
+            "id": "b9411aab-0173-4dde-a40f-b6c43a99fcfd",
+            "columnId": "8f5e3dba-476f-4726-b752-6fdf93267534",
+            "value": false,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "0d87f168-f1e8-47e0-9277-40e19e16f8cc",
+            "columnId": "f2d91edd-783e-448a-99fc-fb6216a5fbf3",
+            "value": true,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "5380b8f1-81f7-4ca9-8e62-a1904077379a",
+            "columnId": "b1f44581-b1ab-4a11-b781-bc278108525f",
+            "content": "Show Current File Path",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "10121a17-7cef-4bd8-b552-ca3513a672d8",
+            "columnId": "b2404d75-240b-4177-b56c-ef5d4bd6b4a2",
+            "tagId": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "60da561f-62d7-4be2-92b8-db61dd8e35a2",
+            "columnId": "26a7e305-0694-4dfc-9816-7f2430720d2a",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "adcbf29a-fdea-4276-be4b-b15750dc034a",
+            "columnId": "d1592ad7-a1c2-4bd1-882c-69e79f7864b8",
+            "content": "Show the full path of the currently open file in the status bar",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "46003761-9b76-4f40-8cf7-f8f2aa63c1e9",
+            "columnId": "fc0d2eb6-f014-4779-bebe-72cd634c56b2",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "4ae99bbf-7a46-4fe8-a46e-fb3061877c05",
+            "columnId": "2b6370cb-57a3-4c06-b95b-785e5512b181",
+            "content": "status bar",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "f5604fc7-dad8-4925-9dc0-5a3cf720c1ab",
+        "index": 33,
+        "sourceId": null,
+        "creationDateTime": "2024-03-04T22:52:12.671Z",
+        "lastEditedDateTime": "2024-03-06T18:17:00.517Z",
+        "cells": [
+          {
+            "id": "666e9317-f78d-4d04-9114-5e74dff13484",
+            "columnId": "8f5e3dba-476f-4726-b752-6fdf93267534",
+            "value": false,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "74801007-f5fa-4c22-9555-f4c41a48701e",
+            "columnId": "f2d91edd-783e-448a-99fc-fb6216a5fbf3",
+            "value": true,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "4124e1bf-e1bd-49d2-b213-a9c23734853f",
+            "columnId": "b1f44581-b1ab-4a11-b781-bc278108525f",
+            "content": "Status Bar Organizer",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "329caf0a-9a66-4316-b82f-ab22c0a37136",
+            "columnId": "b2404d75-240b-4177-b56c-ef5d4bd6b4a2",
+            "tagId": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "83690498-0827-48aa-a782-3179c820550d",
+            "columnId": "26a7e305-0694-4dfc-9816-7f2430720d2a",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "f38ec86d-8c6e-480c-8849-4014fd9f4089",
+            "columnId": "d1592ad7-a1c2-4bd1-882c-69e79f7864b8",
+            "content": "Lets you rearrange and hide specific status bar elements.",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "3c63a29c-b22c-42c6-8d66-1a895f742e0d",
+            "columnId": "fc0d2eb6-f014-4779-bebe-72cd634c56b2",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "4b3bdf2c-24b0-4831-82b8-c1b7fc03db86",
+            "columnId": "2b6370cb-57a3-4c06-b95b-785e5512b181",
+            "content": "status bar",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "10c7f8ef-96a1-47c4-ad14-eb5f0ddcf739",
+        "index": 34,
+        "sourceId": null,
+        "creationDateTime": "2024-03-04T22:52:13.837Z",
+        "lastEditedDateTime": "2024-03-06T18:16:51.025Z",
+        "cells": [
+          {
+            "id": "a0b97828-74e3-47ec-b8d1-dc35168bd11b",
+            "columnId": "8f5e3dba-476f-4726-b752-6fdf93267534",
+            "value": false,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "3faf3b69-820d-4914-8cdb-5e3e42b0ad13",
+            "columnId": "f2d91edd-783e-448a-99fc-fb6216a5fbf3",
+            "value": true,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "b92ddb8d-2012-4423-bc5c-fd264839f79d",
+            "columnId": "b1f44581-b1ab-4a11-b781-bc278108525f",
+            "content": "Status Bar Quote",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "d3a5f160-c19b-423d-8440-a106f6800095",
+            "columnId": "b2404d75-240b-4177-b56c-ef5d4bd6b4a2",
+            "tagId": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "972b84da-588d-4dd1-802e-f1b62442d069",
+            "columnId": "26a7e305-0694-4dfc-9816-7f2430720d2a",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "f67e0251-7ba5-49e3-9e5f-3227328d1510",
+            "columnId": "d1592ad7-a1c2-4bd1-882c-69e79f7864b8",
+            "content": "Show your favorite quote in obsidian status bar",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "24b97da6-981f-47ae-b8d4-c939370706d5",
+            "columnId": "fc0d2eb6-f014-4779-bebe-72cd634c56b2",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "4935bc3a-12d7-4fc3-9d49-c18860494903",
+            "columnId": "2b6370cb-57a3-4c06-b95b-785e5512b181",
+            "content": "status bar",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "f7c71ff6-9b0c-431b-9f86-e3dbae1e57de",
+        "index": 35,
+        "sourceId": null,
+        "creationDateTime": "2024-03-04T22:52:40.857Z",
+        "lastEditedDateTime": "2024-03-06T18:16:49.707Z",
+        "cells": [
+          {
+            "id": "52853fd3-f284-4544-a1db-87bab011bf5a",
+            "columnId": "8f5e3dba-476f-4726-b752-6fdf93267534",
+            "value": false,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "cff463dd-22ab-46d9-a837-4bc8983837a2",
+            "columnId": "f2d91edd-783e-448a-99fc-fb6216a5fbf3",
+            "value": true,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "5c0ec17f-c06b-4928-abbd-a4ed983543d1",
+            "columnId": "b1f44581-b1ab-4a11-b781-bc278108525f",
+            "content": "Tab Switcher",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "dff9c623-1ab7-4def-81e9-4d4f83b7f04e",
+            "columnId": "b2404d75-240b-4177-b56c-ef5d4bd6b4a2",
+            "tagId": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "3395c0df-2ed3-4bfc-a7ec-c5af91af4b67",
+            "columnId": "26a7e305-0694-4dfc-9816-7f2430720d2a",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "4e36f499-a101-4821-97cb-83cc390f095c",
+            "columnId": "d1592ad7-a1c2-4bd1-882c-69e79f7864b8",
+            "content": "Switch your tabs with Ctrl + Tab in recently used order like in a browser.",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "9d17eb94-88f9-4ecf-9d52-dd1aa7d467ab",
+            "columnId": "fc0d2eb6-f014-4779-bebe-72cd634c56b2",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "68ac3c5e-8409-409d-953a-d4d5af430a91",
+            "columnId": "2b6370cb-57a3-4c06-b95b-785e5512b181",
+            "content": "tab",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "79bcea5d-cd3e-4c45-95ad-c45681085c5b",
+        "index": 36,
+        "sourceId": null,
+        "creationDateTime": "2024-03-04T22:53:17.166Z",
+        "lastEditedDateTime": "2024-03-06T18:16:44.710Z",
+        "cells": [
+          {
+            "id": "32a484f1-ba9a-471a-a41e-878a3e23907b",
+            "columnId": "8f5e3dba-476f-4726-b752-6fdf93267534",
+            "value": false,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "f4d1de2b-3dce-4a4f-97dd-f136c8bc2610",
+            "columnId": "f2d91edd-783e-448a-99fc-fb6216a5fbf3",
+            "value": true,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "ef0056c7-7d1b-4c26-9d91-c7a42b475ea3",
+            "columnId": "b1f44581-b1ab-4a11-b781-bc278108525f",
+            "content": "TimeStamper",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "07d49a9e-9b65-4892-9f4e-9f30e0dd7a12",
+            "columnId": "b2404d75-240b-4177-b56c-ef5d4bd6b4a2",
+            "tagId": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "4447e613-f782-439e-af0a-f8899b2e36e6",
+            "columnId": "26a7e305-0694-4dfc-9816-7f2430720d2a",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "663a161b-5047-4dbc-9f9b-ae5d95b07aae",
+            "columnId": "d1592ad7-a1c2-4bd1-882c-69e79f7864b8",
+            "content": "Insert customized time/date stamp.",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "92edb510-917a-48cd-8fef-d907a09a9048",
+            "columnId": "fc0d2eb6-f014-4779-bebe-72cd634c56b2",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "dd67a9d3-701f-420b-a6ce-770f713935a9",
+            "columnId": "2b6370cb-57a3-4c06-b95b-785e5512b181",
+            "content": "",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "0d8096a5-d1e9-42b5-9680-5d35ad1a24f2",
+        "index": 37,
+        "sourceId": null,
+        "creationDateTime": "2024-03-04T22:53:36.470Z",
+        "lastEditedDateTime": "2024-03-06T18:16:42.775Z",
+        "cells": [
+          {
+            "id": "a58615bc-0a78-4055-b7df-9a5d873784f3",
+            "columnId": "8f5e3dba-476f-4726-b752-6fdf93267534",
+            "value": false,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "a10d53e7-9387-4d2c-bed3-169200bea999",
+            "columnId": "f2d91edd-783e-448a-99fc-fb6216a5fbf3",
+            "value": true,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "4dbcaaeb-a66a-47ef-a317-6f7354721976",
+            "columnId": "b1f44581-b1ab-4a11-b781-bc278108525f",
+            "content": "Vault name in status bar",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "192e027e-8b26-4235-b88c-8b8fe224b999",
+            "columnId": "b2404d75-240b-4177-b56c-ef5d4bd6b4a2",
+            "tagId": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "9abef3a7-a878-4580-96fb-7f9e225dba2c",
+            "columnId": "26a7e305-0694-4dfc-9816-7f2430720d2a",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "8a8779a8-80ee-49be-8ceb-5a3131383883",
+            "columnId": "d1592ad7-a1c2-4bd1-882c-69e79f7864b8",
+            "content": "vault name in status bar.\ncan be reduced to ::",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "ea7168e5-5175-4ecd-a85d-e937f9cc2c3e",
+            "columnId": "fc0d2eb6-f014-4779-bebe-72cd634c56b2",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "6c37c205-e779-4af5-a37f-e835faf10844",
+            "columnId": "2b6370cb-57a3-4c06-b95b-785e5512b181",
+            "content": "status bar",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "78b2d7a6-a114-474f-b206-91650f487604",
+        "index": 38,
+        "sourceId": null,
+        "creationDateTime": "2024-03-04T23:10:47.609Z",
+        "lastEditedDateTime": "2024-03-06T18:16:35.532Z",
+        "cells": [
+          {
+            "id": "d28eeac6-1717-4cfd-9787-18d2448a2d2c",
+            "columnId": "8f5e3dba-476f-4726-b752-6fdf93267534",
+            "value": false,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "d3f156e6-5263-410d-8d81-47f22f8779cc",
+            "columnId": "f2d91edd-783e-448a-99fc-fb6216a5fbf3",
+            "value": true,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "4a1c545c-1a0b-4db0-8f26-c0beb87cb997",
+            "columnId": "b1f44581-b1ab-4a11-b781-bc278108525f",
+            "content": "Zettleflow",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "7e40fd20-acd9-4ba5-a91a-65c02a795580",
+            "columnId": "b2404d75-240b-4177-b56c-ef5d4bd6b4a2",
+            "tagId": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "fd0ee211-ecd1-4a38-9025-0cdd74bce11e",
+            "columnId": "26a7e305-0694-4dfc-9816-7f2430720d2a",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "f1d35d44-3b8e-4fd0-b046-59a18ad60c15",
+            "columnId": "d1592ad7-a1c2-4bd1-882c-69e79f7864b8",
+            "content": "Helps you to create and manage your notes in a Zettelkasten way via Canvas.",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "8015522e-88b6-4803-b970-a2104dfe0e94",
+            "columnId": "fc0d2eb6-f014-4779-bebe-72cd634c56b2",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "3a84e5e3-6649-4d3c-a363-9572fa9ad937",
+            "columnId": "2b6370cb-57a3-4c06-b95b-785e5512b181",
+            "content": "Canvas",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "5e86970d-603d-4b74-ba71-62e78a6548b1",
+        "index": 39,
+        "sourceId": null,
+        "creationDateTime": "2024-03-04T23:37:23.210Z",
+        "lastEditedDateTime": "2024-03-04T23:41:09.685Z",
+        "cells": [
+          {
+            "id": "597bce7e-14ce-477b-a2e5-13bc52a008f9",
+            "columnId": "8f5e3dba-476f-4726-b752-6fdf93267534",
+            "value": false,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "637d749a-8cc2-43db-bc89-c6ddf496decc",
+            "columnId": "f2d91edd-783e-448a-99fc-fb6216a5fbf3",
+            "value": true,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "66c0e2c9-fcaf-415e-acc7-393eb2a41db9",
+            "columnId": "b1f44581-b1ab-4a11-b781-bc278108525f",
+            "content": "Meta Bind",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "2113bd2c-efb8-4df1-913b-05ca42f5588e",
+            "columnId": "b2404d75-240b-4177-b56c-ef5d4bd6b4a2",
+            "tagId": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "82d7c53d-0370-49af-8660-1c6eb0196a62",
+            "columnId": "26a7e305-0694-4dfc-9816-7f2430720d2a",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "85f94395-653f-4753-80db-5aa0010d015f",
+            "columnId": "d1592ad7-a1c2-4bd1-882c-69e79f7864b8",
+            "content": "Make your notes interactive with inline input fields, metadata displays,\nand buttons.",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "c5269262-91c3-411b-be48-a88acd2d74c6",
+            "columnId": "fc0d2eb6-f014-4779-bebe-72cd634c56b2",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "c567dab4-b10b-44ab-b14c-08567fbaf52c",
+            "columnId": "2b6370cb-57a3-4c06-b95b-785e5512b181",
+            "content": "",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "8c560aed-ddd6-4804-b87a-54ab00cbf93e",
+        "index": 40,
+        "sourceId": null,
+        "creationDateTime": "2024-03-04T23:40:59.150Z",
+        "lastEditedDateTime": "2024-03-04T23:41:06.605Z",
+        "cells": [
+          {
+            "id": "3b1ef684-6c5c-453c-9fbd-ed40886ce4b1",
+            "columnId": "8f5e3dba-476f-4726-b752-6fdf93267534",
+            "value": false,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "8d045328-91d0-433f-ab11-bef412bb2061",
+            "columnId": "f2d91edd-783e-448a-99fc-fb6216a5fbf3",
+            "value": true,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "1715a8b6-6fca-4b62-952f-77090b6cd25c",
+            "columnId": "b1f44581-b1ab-4a11-b781-bc278108525f",
+            "content": "Templater",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "a7c00841-d26d-4664-92ac-1e5525462153",
+            "columnId": "b2404d75-240b-4177-b56c-ef5d4bd6b4a2",
+            "tagId": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "5c8b73a3-1ffd-4dff-a768-ef7797955ce2",
+            "columnId": "26a7e305-0694-4dfc-9816-7f2430720d2a",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "8aa3cc05-d115-46b9-a731-be002218cb5f",
+            "columnId": "d1592ad7-a1c2-4bd1-882c-69e79f7864b8",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "ce4fa558-32fb-40a1-a884-65eda73341fe",
+            "columnId": "fc0d2eb6-f014-4779-bebe-72cd634c56b2",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "578ce9ef-3259-4093-ab96-7b6f82063c5d",
+            "columnId": "2b6370cb-57a3-4c06-b95b-785e5512b181",
+            "content": "",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "0cd900cf-faba-4ed6-acba-470e4b554e37",
+        "index": 41,
+        "sourceId": null,
+        "creationDateTime": "2024-03-04T23:41:22.732Z",
+        "lastEditedDateTime": "2024-03-04T23:41:31.662Z",
+        "cells": [
+          {
+            "id": "449050ea-7370-4f2e-a4f7-8cf15eecb0b7",
+            "columnId": "8f5e3dba-476f-4726-b752-6fdf93267534",
+            "value": false,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "ba6b89b6-946d-4c58-9ebc-4994461db0b1",
+            "columnId": "f2d91edd-783e-448a-99fc-fb6216a5fbf3",
+            "value": false,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "1067d079-c0c3-4acb-b159-1545814d1a23",
+            "columnId": "b1f44581-b1ab-4a11-b781-bc278108525f",
+            "content": "Hints Flow",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "05d6c715-41ce-48df-a481-99d2f46fb09c",
+            "columnId": "b2404d75-240b-4177-b56c-ef5d4bd6b4a2",
+            "tagId": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "3cb261dd-d3d1-4698-8ab2-45f42a8e5710",
+            "columnId": "26a7e305-0694-4dfc-9816-7f2430720d2a",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "71e9d268-ba77-4c4c-850b-f628d139dd81",
+            "columnId": "d1592ad7-a1c2-4bd1-882c-69e79f7864b8",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "e461d32c-b4bc-45f3-a731-cb6f42fb6fde",
+            "columnId": "fc0d2eb6-f014-4779-bebe-72cd634c56b2",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "3e076b33-3eb6-4224-b0c7-43906f89ed8e",
+            "columnId": "2b6370cb-57a3-4c06-b95b-785e5512b181",
+            "content": "",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "c78651a1-7099-4737-9346-a3fd0c93d1f7",
+        "index": 42,
+        "sourceId": null,
+        "creationDateTime": "2024-03-04T23:41:24.600Z",
+        "lastEditedDateTime": "2024-03-06T18:18:34.555Z",
+        "cells": [
+          {
+            "id": "263469de-673a-4057-bb42-2e3d606dc8df",
+            "columnId": "8f5e3dba-476f-4726-b752-6fdf93267534",
+            "value": false,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "e0663f33-34f7-43f4-9533-aa47ad5c139d",
+            "columnId": "f2d91edd-783e-448a-99fc-fb6216a5fbf3",
+            "value": false,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "de860f90-9b34-4e9c-9280-15773c9de027",
+            "columnId": "b1f44581-b1ab-4a11-b781-bc278108525f",
+            "content": "Settings Search",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "a6e22ea6-8778-48d1-8685-17a7d438d356",
+            "columnId": "b2404d75-240b-4177-b56c-ef5d4bd6b4a2",
+            "tagId": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "03215071-0f56-4873-b437-54df382c8d2e",
+            "columnId": "26a7e305-0694-4dfc-9816-7f2430720d2a",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "f768428f-d436-459d-a285-debddad37f6c",
+            "columnId": "d1592ad7-a1c2-4bd1-882c-69e79f7864b8",
+            "content": "Globally search settings.",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "fbc51887-edc9-466a-b9c3-c981614034ec",
+            "columnId": "fc0d2eb6-f014-4779-bebe-72cd634c56b2",
+            "content": "QOL",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "aa15d408-be31-49ae-88cb-de47d8d8bc55",
+            "columnId": "2b6370cb-57a3-4c06-b95b-785e5512b181",
+            "content": "",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "db1abff4-0f90-4535-9f9d-1e81bb840b1f",
+        "index": 43,
+        "sourceId": null,
+        "creationDateTime": "2024-03-06T18:21:43.431Z",
+        "lastEditedDateTime": "2024-03-06T18:22:24.517Z",
+        "cells": [
+          {
+            "id": "b7abe388-f8d6-49ea-bf57-e1fe4c9fb98d",
+            "columnId": "8f5e3dba-476f-4726-b752-6fdf93267534",
+            "value": false,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "2caf92d3-02ef-4f8f-9b13-dd047f5fdeb7",
+            "columnId": "f2d91edd-783e-448a-99fc-fb6216a5fbf3",
+            "value": false,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "3f7f2ecb-40da-45a6-9d60-3fa754052c27",
+            "columnId": "b1f44581-b1ab-4a11-b781-bc278108525f",
+            "content": "List Callouts",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "249a40b7-e162-4750-aaf0-dc9f1674d8b0",
+            "columnId": "b2404d75-240b-4177-b56c-ef5d4bd6b4a2",
+            "tagId": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "04190a30-cce5-4034-98fd-112a6324d202",
+            "columnId": "26a7e305-0694-4dfc-9816-7f2430720d2a",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "f61377a5-e0d9-4f3c-875e-240fb1af0278",
+            "columnId": "d1592ad7-a1c2-4bd1-882c-69e79f7864b8",
+            "content": "Create simple callouts in lists.",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "7efc395e-91c4-4432-9835-669c65b01375",
+            "columnId": "fc0d2eb6-f014-4779-bebe-72cd634c56b2",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "6df4ce34-9014-43e1-86c3-626d9764a425",
+            "columnId": "2b6370cb-57a3-4c06-b95b-785e5512b181",
+            "content": "lists, bullets, callouts",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "de1dd5d6-7ef9-403a-9570-d53f63acae34",
+        "index": 44,
+        "sourceId": null,
+        "creationDateTime": "2024-03-06T18:24:08.203Z",
+        "lastEditedDateTime": "2024-03-06T18:24:56.448Z",
+        "cells": [
+          {
+            "id": "617f3862-36e3-4d7d-bf61-e91e781f70d6",
+            "columnId": "8f5e3dba-476f-4726-b752-6fdf93267534",
+            "value": false,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "001de076-890e-4835-afd0-0d8e3d07ce80",
+            "columnId": "f2d91edd-783e-448a-99fc-fb6216a5fbf3",
+            "value": false,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "c67202d0-b1cf-466e-9709-e98e27f27612",
+            "columnId": "b1f44581-b1ab-4a11-b781-bc278108525f",
+            "content": "Supercharged Links",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "8417b178-aee0-4183-aa71-32270901859b",
+            "columnId": "b2404d75-240b-4177-b56c-ef5d4bd6b4a2",
+            "tagId": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "5efea220-a58a-4e1a-853b-5bfed7332149",
+            "columnId": "26a7e305-0694-4dfc-9816-7f2430720d2a",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "890e8213-ec7c-4c7c-a91f-fec4d20fcb1d",
+            "columnId": "d1592ad7-a1c2-4bd1-882c-69e79f7864b8",
+            "content": "Add attributes to internal links with the values of target note's\nfrontmatter attributes.",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "ac12f505-37de-4b6b-b75c-446db0acbccc",
+            "columnId": "fc0d2eb6-f014-4779-bebe-72cd634c56b2",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "cd813fdc-85a6-4f91-b71b-54a5233ae57c",
+            "columnId": "2b6370cb-57a3-4c06-b95b-785e5512b181",
+            "content": "",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "a5294f3d-06bd-409d-9009-546c81fa82c1",
+        "index": 45,
+        "sourceId": null,
+        "creationDateTime": "2024-03-06T18:26:46.477Z",
+        "lastEditedDateTime": "2024-03-06T18:26:57.626Z",
+        "cells": [
+          {
+            "id": "78e00d62-1419-4c1f-a662-bce4dbcd21a4",
+            "columnId": "8f5e3dba-476f-4726-b752-6fdf93267534",
+            "value": false,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "f9db2f9a-a9e6-49a6-9265-08b6548743c3",
+            "columnId": "f2d91edd-783e-448a-99fc-fb6216a5fbf3",
+            "value": false,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "f00c2601-3908-49ff-9890-c2b7e27029b6",
+            "columnId": "b1f44581-b1ab-4a11-b781-bc278108525f",
+            "content": "Update time on edit",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "43b34d24-f347-4246-bb46-2a8a5e70358c",
+            "columnId": "b2404d75-240b-4177-b56c-ef5d4bd6b4a2",
+            "tagId": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "60144e1b-e5aa-4871-b6f1-c1440180f505",
+            "columnId": "26a7e305-0694-4dfc-9816-7f2430720d2a",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "ab1042e7-f63a-40b4-91b0-65ab1c0a1338",
+            "columnId": "d1592ad7-a1c2-4bd1-882c-69e79f7864b8",
+            "content": "Keep frontmatter in sync with the last edit time.",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "e73ea1b0-a397-4f12-ab11-11578660f57e",
+            "columnId": "fc0d2eb6-f014-4779-bebe-72cd634c56b2",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "84e6203c-99df-495f-9ac1-59eb02f22dbd",
+            "columnId": "2b6370cb-57a3-4c06-b95b-785e5512b181",
+            "content": "",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "b4795c46-5165-45f8-a1b8-628a568038cf",
+        "index": 46,
+        "sourceId": null,
+        "creationDateTime": "2024-03-06T18:36:58.491Z",
+        "lastEditedDateTime": "2024-03-06T18:37:09.276Z",
+        "cells": [
+          {
+            "id": "cbd72eb4-31c4-4ee3-827b-7733a80108ad",
+            "columnId": "8f5e3dba-476f-4726-b752-6fdf93267534",
+            "value": false,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "719e11cb-65c7-427d-b81e-ccee18cd6e4f",
+            "columnId": "f2d91edd-783e-448a-99fc-fb6216a5fbf3",
+            "value": false,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "0104249d-4c96-45b6-9e06-7f97676d595f",
+            "columnId": "b1f44581-b1ab-4a11-b781-bc278108525f",
+            "content": "Front Matter Title",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "6761713d-5f7e-4dd6-9e9c-15848fa11909",
+            "columnId": "b2404d75-240b-4177-b56c-ef5d4bd6b4a2",
+            "tagId": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "4243d534-4923-4b44-88fe-0aed0aa15794",
+            "columnId": "26a7e305-0694-4dfc-9816-7f2430720d2a",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "2539b3a0-a96b-4dba-868d-d7e46a357ac2",
+            "columnId": "d1592ad7-a1c2-4bd1-882c-69e79f7864b8",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "72ceef40-f3ce-404e-9664-b842a7112eee",
+            "columnId": "fc0d2eb6-f014-4779-bebe-72cd634c56b2",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "ca0a4f59-1859-489e-8dcf-cac7f64c2301",
+            "columnId": "2b6370cb-57a3-4c06-b95b-785e5512b181",
+            "content": "",
+            "hasValidFrontmatter": null
+          }
+        ]
+      }
+    ],
+    "filters": [],
+    "sources": [],
+    "settings": {
+      "numFrozenColumns": 1,
+      "showCalculationRow": false
+    },
+    "externalRowOrder": []
+  },
+  "pluginVersion": "8.15.12"
+}
