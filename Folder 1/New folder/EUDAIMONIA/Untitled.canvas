@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"3bc79e0d690232015a54edb6c4449ccb","type":"file","file":"Remote and Digital Income Opportunities.md","x":0,"y":0,"width":400,"height":500},
+		{"id":"69f6d1ec2914924500c24100758894b9","type":"file","file":"Journal daily note/2024-02-21.md","x":450,"y":0,"width":400,"height":500},
+		{"id":"02fca5e47fc927f4ea1bbe413801832f","type":"file","file":"Journal daily note/2024-03-02.md","x":900,"y":0,"width":400,"height":500},
+		{"id":"ec1ef2e2aea85105c321e5b87e2d6cf5","type":"file","file":"Journal daily note/Welcome.md","x":0,"y":550,"width":400,"height":500},
+		{"id":"2720bd493f0500ef623bc8e0b0aeb858","type":"file","file":"Projects - Demo Project/Why You Should Be Taking More Notes.md","x":450,"y":550,"width":400,"height":500},
+		{"id":"399508c5562a68d4e6b0b1a00763babf","type":"file","file":"Projects - Demo Project/5 Mistakes I Made When I Started Using Obsidian.md","x":900,"y":550,"width":400,"height":500},
+		{"id":"0f6f057281fdac8aec3602fc07c7e0b1","type":"file","file":"Projects - Demo Project/The Easiest Way to Start Taking Notes.md","x":450,"y":1100,"width":400,"height":500},
+		{"id":"b2c785e634d6bed97673fa8bf80d1a84","type":"file","file":"Reels Sharing Link to external.md","x":900,"y":1100,"width":400,"height":500},
+		{"id":"538250c2ff634a2a3079601e78b0d465","type":"file","file":"Excalidraw/Drawing 2024-02-03 16.14.45.excalidraw.md","x":0,"y":1100,"width":400,"height":500}
+	],
+	"edges":[]
+}
