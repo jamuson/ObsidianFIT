@@ -1,0 +1,3 @@
+# **Sun in Scorpio**
+
+People born under the sign of Scorpio can think very clearly, You have a good judgement and can assess situations very well. You also have a good memory and a very creative mind, which is characterised by its originality. You can be very obstinate when You defend Your opinions. The reason for this behaviour is Your justifiable confidence. [more -»](https://horoscopes.astro-seek.com/sun-zodiac-horoscope-sign/scorpio

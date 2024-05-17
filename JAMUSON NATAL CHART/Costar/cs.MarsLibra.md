@@ -1,0 +1,1 @@
+Your Mars is in Libra, meaning while it may take you a while to make a decision, you assert yourself in a way that is fair-minded and relativistic, though sometimes passive aggressive

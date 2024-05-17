@@ -1,0 +1,1 @@
+It's in your first house, meaning you find success through your self and self-image-and, because it's your first house, your Jupiter in Gemini is hyper-present in your personality.

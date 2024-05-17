@@ -1,0 +1,1 @@
+It's in your fifth house, meaning you put a lot of energy into romance, self-expression, creativity, and pleasure

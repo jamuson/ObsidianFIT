@@ -1,0 +1,1 @@
+It's in your seventh house, meaning you personally are transforming outdated forms of close relationships and long-term partnerships.

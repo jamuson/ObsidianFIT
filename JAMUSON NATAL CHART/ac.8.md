@@ -1,0 +1,1 @@
+House VIII - the eighth house - is the area of emotional security and of security of the soul.

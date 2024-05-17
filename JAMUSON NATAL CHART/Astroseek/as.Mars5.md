@@ -1,0 +1,3 @@
+# **Mars in the 5th House**
+
+Mars in the fifth house suggests that You spend a lot of energy on hedonistic and romantic adventures. You are physically strong, impulsive and unstable people who can have a great deal of creative talent. You are inclined to brag. Your behaviour in romantic relationships is vigorous and You may be prone to jealousy. You are competitive and You do not like to lose. These social and active people have talent to work in advertising. You may be quite extravagant, strange or foolish. A considerable amount of Your time and energy may be spent on activities with children.

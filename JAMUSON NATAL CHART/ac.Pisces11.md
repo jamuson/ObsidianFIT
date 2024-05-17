@@ -1,0 +1,1 @@
+You may have only a few friends, but with these the friendship is sincere and frank.

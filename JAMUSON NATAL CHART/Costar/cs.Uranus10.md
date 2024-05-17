@@ -1,0 +1,1 @@
+It's in your tenth house, meaning that for you, this manifests in rebelling against dated expectations about goals, success, and responsibility.

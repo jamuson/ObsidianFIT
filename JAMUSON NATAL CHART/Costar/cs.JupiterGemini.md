@@ -1,0 +1,1 @@
+Your Jupiter is in Gemini, meaning you grow and find understanding through curiosity, mental adventure, and trying new things.

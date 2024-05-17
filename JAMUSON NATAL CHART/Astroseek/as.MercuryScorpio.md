@@ -1,0 +1,3 @@
+# **Mercury in Scorpio**
+
+People with Mercury in Scorpio do not want reconciliation; You will use Your imagination to think about revenge. Water brings emotion and inability to reconcile so people with Mercury in water signs tend to like art, mysticism and psychology. You speak with emotions. Some people may see Your bright and intelligent mind as a threat and become aggressive toward You. When You were younger, Your rivals could have been those who should have known more, for example teachers or other authorities, or even older siblings. Your mind sees through people and You can use it to discover things that bother or interest You. You are likely to work as psychologists, politicians, researchers or detectives.

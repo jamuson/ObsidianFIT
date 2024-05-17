@@ -1,0 +1,1 @@
+It's in your tenth house, meaning you find security and safety through success and responsibility.

@@ -1,0 +1,1 @@
+House VII - the seventh house - is the area of one-to-one relationships such as marriage and partnership, and of social and intellectual action.

@@ -1,0 +1,1 @@
+Your Uranus is in Aquarius, meaning other generations are shocked by your generation's unconventionality, intellectuality, and detachedness.

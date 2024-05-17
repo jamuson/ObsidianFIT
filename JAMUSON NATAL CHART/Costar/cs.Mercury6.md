@@ -1,0 +1,1 @@
+It's in your sixth house, meaning you are curious about and inclined to analyze your productivity, how to help people, and your emotional wellbeing.

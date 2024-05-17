@@ -1,0 +1,1 @@
+House VI - the sixth house - is the area of learning by material transaction.

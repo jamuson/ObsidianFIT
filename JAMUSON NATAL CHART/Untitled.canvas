@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"fd139b13066cec68","type":"text","text":"![[ac.SunScorpio]]","x":-390,"y":-400,"width":1430,"height":885},
+		{"id":"44e4c87c08464c17","type":"text","text":"![[al.SunScorpio]]","x":-390,"y":485,"width":1440,"height":360},
+		{"id":"4a10fe7308ac91c9","type":"text","text":"![[as.SunScorpio]]","x":-390,"y":-860,"width":1430,"height":253},
+		{"id":"1e13fb095a6c2f65","type":"text","text":"![[cs.SunScorpio]]","x":-390,"y":-580,"width":1430,"height":140}
+	],
+	"edges":[]
+}

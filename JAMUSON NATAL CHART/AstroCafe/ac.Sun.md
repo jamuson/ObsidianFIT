@@ -1,0 +1,1 @@
+The Sun represents vitality, a sense of individuality, and outward-shining creative energy.  

@@ -1,0 +1,5 @@
+Chiron - Wounded Healer, inner teacher
+
+Chiron is an asteroid between Saturn and Uranus. Its orbit is very unusual and represents a bridge between material and spiritual worlds.
+According to mythology, Chiron was a great healer, wise teacher and one of the immortal Centaurs. Unfortunately, he was "deadly" injured by a poisonous arrow by Heracles, his favourite disciple. He was suffering in great pain but he could not die. Finally, he gave up his immortality for the benefit of Prometheus who was also suffering, and Chiron was sent to the underworld. In the underworld Zeus had mercy for him and he raised him to the heaven.
+In astrology, Chiron symbolizes our unhealable injuries and incurable trauma. However, if a person, instead of drowning in his own trauma, is able to accept the trauma and help others who are also suffering, and accept that suffering is part of life, then Chiron may be the key to wisdom, or even to some sort of "Initiation Gate".

@@ -1,0 +1,1 @@
+Your Saturn is in Taurus, meaning you struggle with settling too easily, a lack of imagination, and getting stuck in the mud or distracted by sensory pleasure.

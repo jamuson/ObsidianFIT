@@ -1,0 +1,3 @@
+Moon **Semi-Sextile** Neptune
+
+This aspect influences people in a similar way conjunction does but not as strongly. This aspect gives people the need to search for something transcendental, and this is often the reason why You tend to be religious or join various esoteric movements. You tend to be a bit confused, chaotic and have unrealistic desires. This aspects gives You the ability to perceive deep mental processes and difficulties of human psyche. It's a great aspect for psychologists, but sometimes You may experience difficulties coping with the depths of human psyche.

@@ -1,0 +1,1 @@
+It's in your seventh house, meaning that for you, love is often expressed in close relationships and long-term partnerships.

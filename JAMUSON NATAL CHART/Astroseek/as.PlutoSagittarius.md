@@ -1,0 +1,3 @@
+_(Note: Pluto is a slow transpersonal planet and may remain in a single sign for up to many years. The description of Pluto in Sagittarius is therefore valid for the entire generation of people and is very general. The characteristic of the personality is in the description of Pluto in the 7th house.)_
+
+People with Pluto in Sagittarius are understanding and philosophical. Personal transformation can occur especially through philosophical searching. Pluto in this position strengthens Your innate (not learnt) religious consciousness and feeling. We can expect You to create a new spiritual or mystical direction, and attempts to merge existing religions and churches.

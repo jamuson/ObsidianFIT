@@ -1,0 +1,1 @@
+: **disposed to seek revenge** : vengeful. b. : intended for or involving revenge. 2. : intended to cause anguish or hurt : spiteful.Apr 30, 2024

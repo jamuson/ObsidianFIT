@@ -1,0 +1,3 @@
+Sun **Semi-Sextile** Pluto (2°15’, Separating)
+
+This aspect often creates stubborn and decisive people. However, You also tend to tell others what to do and You try to persuade You about the need to change Your behaviour. People with this aspect may encounter death or other profound changes in Your surroundings more often then usual. You have a tendency to influence others through effective manipulation at subconscious level. At first You seem kind but in reality You are manipulating and controlling. However, You are often unaware of it.

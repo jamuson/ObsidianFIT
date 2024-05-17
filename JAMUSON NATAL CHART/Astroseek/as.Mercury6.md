@@ -1,0 +1,3 @@
+# **Mercury in the 6th House**
+
+Mercury in the sixth house is related to health and help to other people. It tells us about methodological mental abilities and great ability to work mentally. It means that You are likely to have a job that requires a specialisation or physical skills, for example working with computers or electronic devices. You have the tendency to become perfectionists and worry unnecessarily, especially about Your duties, health and diet. You hate mess.

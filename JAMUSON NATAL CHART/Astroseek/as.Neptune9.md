@@ -1,0 +1,1 @@
+Neptune in the ninth house suggests strong connection with education, philosophy, religion and travel. You are often easily influenced, intuitive and interested in unusual religions. You may also be interested in art, which You may study or teach. This position of Neptune also means misunderstandings and difficulties with in-laws.

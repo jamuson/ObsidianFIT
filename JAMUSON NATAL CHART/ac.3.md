@@ -1,0 +1,1 @@
+House III - the third house - is the area of social and intellectual learning.

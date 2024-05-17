@@ -1,0 +1,2 @@
+Your Venus is in Sagittarius, meaning your romantic side is curious and easily bored. 
+You enjoy your independence and aren't willing to compromise that freedom for a relationship that doesn't expand the boundaries of your world.

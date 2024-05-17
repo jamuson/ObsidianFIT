@@ -1,0 +1,3 @@
+# **Jupiter in the 1st House**
+
+Jupiter in the first house plays an important role in shaping people's character. It can be good or bad. Jupiter in the first house suggests optimistic and generous people. It focuses on the happy side of life. You are sincere, trustworthy and benevolent, and these characteristics make You popular. However, You can also be extravagant and full of Yourself. Jupiter is the planet of enlargement, so it sometimes causes obesity. It gives people confidence and respectable behaviour, especially in later life. You are usually very religious and moral. It gives You the ability to take on a leading role in any chosen area, especially in religion, education and social development.

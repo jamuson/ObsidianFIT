@@ -1,0 +1,3 @@
+Chiron in the 7th House**
+
+No matter how hard You try, relationships with other people are hurting You again and again, and these injuries hurt more because You cannot be completely cured, on the contrary, from time to time You reopen. You try to avoid these painful experiences by turning away from other people. You prepare Yourself for difficulties every time You are in contact with another person, but this attracts even more difficulties. However, loneliness sometimes causes even more serious injury.

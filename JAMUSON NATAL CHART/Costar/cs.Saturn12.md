@@ -1,0 +1,1 @@
+It's in your twelfth house, meaning you have had difficulties with privacy, secrets, and introspection.

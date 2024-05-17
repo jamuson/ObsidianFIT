@@ -1,0 +1,1 @@
+Your Neptune is in Aquarius, meaning your entire generation finds inspiration through detached analysis and intellectual pursuits.

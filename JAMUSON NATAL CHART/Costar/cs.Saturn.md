@@ -1,0 +1,1 @@
+The other social planet, Saturn rules responsibility, restrictions, limits, boundaries fears, and self-discipline.

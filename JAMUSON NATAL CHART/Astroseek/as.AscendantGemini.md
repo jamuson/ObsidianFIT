@@ -1,0 +1,3 @@
+**Ascendant in Gemini** (Gemini ruler is Mercury)
+
+Gemini Ascendant is associated with curiosity and interest in how things work. Versatility and adaptability are your advantages, but these traits can lead to fragmentation of interests. You can do everything, but You do not excel in anything. You do not like to choose only one thing if You have more options. Your mission is to disseminate information. If the horoscope has a water or earth character, then this person needs to develop analytical and objective thinking. If it is of airy and fiery nature, then the mind is very restless, you understand everything very quickly, but only by the head, body and emotions remain untouched. ... [more -»](https://horoscopes.astro-seek.com/ascendant-rising-sign-gemini)

@@ -1,0 +1,1 @@
+Your Pluto is in Sagittarius, meaning your generation's psyche is comparatively positive, free-spirited, curious, optimistic, forward-looking, independent, and confident.

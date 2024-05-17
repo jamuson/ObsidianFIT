@@ -1,0 +1,1 @@
+Moon in Pisces has the greatest sensitivity and perceptiveness of surroundings. The person can experience feelings of insecurity, be passive and only wait and see what happens in his life. If you engage in creative or spiritual search, you can become an artist or a mystic with great imagination. [more -»](https://horoscopes.astro-seek.com/moon-lunar-sign/pisces)

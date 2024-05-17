@@ -1,0 +1,3 @@
+# **Sun in the 6th House**
+
+The Sun in the sixth house creates people who have a desire to achieve success at work and You have enough energy to achieve it, especially in jobs that are related to health care and helping others. It creates determined and dedicated workers. This position often leads to success in administration or in professions that require certain specialisation or skills. You are interested in physical wellness and health, and You often find employment in professions associated with these fields.
